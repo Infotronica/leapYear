@@ -32,3 +32,6 @@ HEADERS += \
 
 FORMS += \
         widgetmain.ui
+
+RESOURCES += \
+    appresources.qrc
